@@ -9,3 +9,11 @@
 * Neliela istaba sestajā stāvā,
 * Darbības joma - frontend un backend izstrāde,
 * Darba stundas - no 12:00 līdz 19:00 darba dienās.
+
+## Lietotās programmas
+
+| Nosaukums | Mērķi | Raksturojums |
+| --- | --- | --- |
+| Putty | Savienojuma izveide ar serveriem | Neliela bezmaksas programma, kas ļauj ievadīt komandas, izmantojot konsoli |
+| Visual Studio Code | PHP un JavaScript koda rediģēšana | Bezmaksas koda redaktors ar daudziem dažādiem plaginiem, lai paplašinātu programmas iespējas |
+| FilaZilla Client | Failu pārsūtīšana starp datoru un serveri | Bezmaksas programma, lai piekļūtu failiem serverī, izmantojot FTP |
