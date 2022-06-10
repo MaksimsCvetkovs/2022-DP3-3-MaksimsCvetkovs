@@ -29,8 +29,11 @@
 
 ## Secinājums
 
-* Ieguvu jaunu pieredzi Github izmantošanā komandā — veidojot Pull Request pieprasījumumus,
-* ieguvu zināšanas un pieredzi darbā ar attālinātajiem serveriem.
+### Ieguvu jaunu pieredzi:
+
+* Komandas darbā - problēmas pārrunāšana, ideju radīšana,
+* Github izmantošanā komandā — veidojot Pull Request pieprasījumumus,
+* darbā ar attālinātajiem serveriem.
 
 ## Izmantotie avotie
 
