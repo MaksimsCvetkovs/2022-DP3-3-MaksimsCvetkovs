@@ -30,3 +30,10 @@
 ## Secinājums
 
 * Ieguvu jaunu pieredzi Github izmantošanā komandā — veidojot Pull Request pieprasījumumus,
+* ieguvu zināšanas un pieredzi darbā ar attālinātajiem serveriem.
+
+## Izmantotie avotie
+
+* https://laravel.com/docs/9.x
+* https://www.php.net/docs.php
+* https://vuejs.org/guide/introduction.html
