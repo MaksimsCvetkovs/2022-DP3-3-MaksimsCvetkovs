@@ -25,4 +25,8 @@
 * Datu bāzes migrācijas failus izveide,
 * Model failu izveide,
 * Controller failu izveide,
-* lapas veidnes faila izveide.
+* lapas veidnes failus izveide.
+
+## Secinājums
+
+* Ieguvu jaunu pieredzi Github izmantošanā komandā — veidojot Pull Request pieprasījumumus,
