@@ -1,6 +1,6 @@
 # Darba vidē balstītas mācības pārskats
 
-# **SIA "Media Partiners"**
+# **SIA "Media Partners"**
 
 # *Maksims Cvetkovs DP3-3*
 
@@ -14,7 +14,7 @@
 
 ## **Par padarīto darbu**
 
-### Pirmajā projektā
+## Pirmajā projektā
 
 Izveidoju funkciju produktu augšupielādei vietnē.
 
