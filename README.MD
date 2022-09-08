@@ -30,35 +30,39 @@ Izveidoju administratora lapu no nulles.
 
 ### Putty
 
-Neliela bezmaksas programma, kas ļauj ievadīt komandas, izmantojot konsoli.
-
-Lietošanas mērķis - Savienojuma izveide ar serveriem.
+Neliela bezmaksas programma, kas ļauj ievadīt komandas caur konsoli un pārvaldīt serveri.
 
 ### Visual Studio Code
 
-Bezmaksas koda redaktors ar daudziem dažādiem plaginiem, lai paplašinātu programmas.
-
-Lietošanas mērķis - PHP, JavaScript un citu failu rediģēšana.
+Bezmaksas koda redaktors PHP, JavaScript un citu failu rediģēšanai.
 
 ### FilaZilla Client
 
-Bezmaksas programma, lai piekļūtu failiem serverī, izmantojot FTP.
-
-Lietošanas mērķis - Failu pārsūtīšana starp datoru un serveri.
+Bezmaksas programma, lai piekļūtu failiem serverī, izmantojot FTP, lai pārsūtītu failus starp datoru un serveri.
 
 ### PHP
 
+Skriptu programmēšanas valoda, ko izmanto, lai izveidotu servera puses funkcionalitāti.
+
 ### Laravel
+
+PHP tīmekļa ietvars ar dažādiem rīkiem vietnes izstrādes paātrināšanai.
 
 ### JavaScript
 
+Skriptu valoda, ko izmanto klienta puses funkcionalitātei.
+
 ### Vue JS
+
+JavaScript ietvars, lai atvieglotu sarežģītu elementu izveidi.
+
+### Buefy
+
+Iepriekš izveidoti Vue Js elementi, piemēram, pogas, nolaižamā izvēlne, ikonas utt.
 
 ### npm (Node Package Manage)
 
-Pakotņu pārvaldnieks.
-
-Lietošanas mērķis - JavaScript, Vue js koda izveide/kompilācija vienā failā.
+Pakešu pārvaldnieks JavaScript koda ģenerēšanai/kompilēšanai, Vue js vienā failā.
 
 ## **Iespējamais kvalifikācijas darba uzdevums**
 
@@ -82,3 +86,4 @@ Lietošanas mērķis - JavaScript, Vue js koda izveide/kompilācija vienā fail�
 1. Laravel dokumentācija. [saite](https://laravel.com/docs/9.x).
 2. PHP dokumentācija. [saite](https://www.php.net/docs.php).
 3. Vue js dokumentācija. [saite](https://vuejs.org/guide/introduction.html).
+3. Buefy dokumentācija. [saite](https://buefy.org/documentation).
