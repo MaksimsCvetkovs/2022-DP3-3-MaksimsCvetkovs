@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: gaia
 ---
 
 # Prezentācija par prakse
@@ -20,29 +21,30 @@ img[alt~="center"] {
 
 ---
 
-# Par prakses vietu "Media Partners"
+# Par prakses vietu
 
 * Plaša biroja telpa sešstāvu ēkā.
 * Uzņēmuma darbības joma - hostings, frontend un backend projektu izstrāde.
 * Darba vietas organizācija - darbs pie sava klēpjdatora.
 * Darba komanda - divi administratori, viens komandas vadītājs, pārējie izstrādātāji.
 
+![bg right:40%](images/photo.png)
+
 ---
 
 # Pienākumi prakses vietā
 
-* Dažreiz es izlaboju nelielas kļūdas.
-* Izveidotas lapas no nulles.
-* Izveidota jauna funkcionalitāte un paātrināta lapu, datu bāzu ielāde.
+* Interfeisu un to funkcionalitātes izstrāde atbilstoši prasībām.
+* Kļūdu labošana.
+* Koda paātrināšana vietās, kur notiek lēna ielāde.
 
 ---
 
 # Par darba dienu
 
-* Darba laiks vidēji - no 12:00 līdz 19:00 darba dienās.
+* Darba laiks - no 12:00 līdz 19:00 darba dienās.
 * Dažreiz reizi nedēļā tiek apspriesti daži jautājumi par projektu.
-
-![width:200px center](images/clock-outline.svg)
+* Uzdevumu izpilde un to demonstrēšana dienas beigās.
 
 ---
 
@@ -59,15 +61,13 @@ Apmēram katru nedēļu ir jāveic 2-4 uzdevumi, kas saistīti ar datu bāzēm, 
 * Github izmantošanā komandā — veidojot Pull Request pieprasījumumus, repozitorija atzaru izveide,
 * darbā ar attālinātajiem serveriem.
 
-![width:200px center](images/github.svg)
-
 ---
 
 # Izmantotie avotie prakses laikā
 
-* https://laravel.com/docs/9.x
-* https://www.php.net/docs.php
-* https://vuejs.org/guide/introduction.html
+1. Laravel dokumentācija. [saite](https://laravel.com/docs/9.x).
+2. PHP dokumentācija. [saite](https://www.php.net/docs.php).
+3. Vue js dokumentācija. [saite](https://vuejs.org/guide/introduction.html).
 
 ---
 
