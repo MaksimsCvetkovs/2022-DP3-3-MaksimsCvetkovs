@@ -86,4 +86,4 @@ Pakešu pārvaldnieks JavaScript koda ģenerēšanai/kompilēšanai, Vue js vien
 1. Laravel dokumentācija. [saite](https://laravel.com/docs/9.x).
 2. PHP dokumentācija. [saite](https://www.php.net/docs.php).
 3. Vue js dokumentācija. [saite](https://vuejs.org/guide/introduction.html).
-3. Buefy dokumentācija. [saite](https://buefy.org/documentation).
+4. Buefy dokumentācija. [saite](https://buefy.org/documentation).

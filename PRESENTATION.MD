@@ -1,6 +1,10 @@
 ---
 marp: true
 theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+backgroundImage: url("images/hero-background.svg")
 ---
 
 # Prezentācija par prakse
@@ -68,6 +72,7 @@ Apmēram katru nedēļu ir jāveic 2-4 uzdevumi, kas saistīti ar datu bāzēm, 
 1. Laravel dokumentācija. [saite](https://laravel.com/docs/9.x).
 2. PHP dokumentācija. [saite](https://www.php.net/docs.php).
 3. Vue js dokumentācija. [saite](https://vuejs.org/guide/introduction.html).
+4. Buefy dokumentācija. [saite](https://buefy.org/documentation).
 
 ---
 
